@@ -118,21 +118,13 @@ Highcharts.chart('container', {
                     'Java',
                     75
                 ],
-                 [
-                    'Node JS',
-                    90
-                ],
-                [
-                    'Express/Mongoose',
-                    90
-                ],
                 [
                     'PHP',
                     50
                 ],
                 [
                     'NodeJS-MEAN Stack',
-                    80
+                    90
                 ],
                 [
                     'Spring',
