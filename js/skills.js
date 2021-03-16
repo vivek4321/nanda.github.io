@@ -79,27 +79,35 @@ Highcharts.chart('container', {
                 ],
                 [
                     'JS',
-                    80
+                    90
                 ],
                 [
                     'Jquery',
-                    80
+                    90
                 ],
                 [
                     'Angular',
-                    75
+                    90
                 ],
                 [
-                    'bootstrap',
+                    'React/Redux',
                     80
                 ],
                 [
-                    'Jasmine',
-                    60
+                    'bootstrap/ Material UI',
+                    90
                 ],
                 [
-                    'Require',
-                    60
+                    'Jasmine',
+                    80
+                ],
+                [
+                    'Scss',
+                    80
+                ],
+                [
+                    'Node JS',
+                    90
                 ]
             ]
         }, {
@@ -108,7 +116,15 @@ Highcharts.chart('container', {
             data: [
                 [
                     'Java',
-                    65
+                    75
+                ],
+                 [
+                    'Node JS',
+                    90
+                ],
+                [
+                    'Express/Mongoose',
+                    90
                 ],
                 [
                     'PHP',
